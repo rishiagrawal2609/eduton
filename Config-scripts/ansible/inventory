@@ -1,0 +1,13 @@
+[server1]
+server1.globaleducity.com
+
+[sever2]
+server2.globaleducity.com
+
+[loadbalancing]
+server3.globaleducity.com
+
+[servers]
+server1.globaleducity.com
+server2.globaleducity.com
+

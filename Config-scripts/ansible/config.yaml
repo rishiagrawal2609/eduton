@@ -1,0 +1,24 @@
+---
+- name: check dependecies, If not installed, Install and start the service for 
+  hosts: servers
+  tasks:
+  - name: check/Install epel release- CentOS8 stream
+    yum:
+      name: epel-release
+      state: present
+  - name: check/Install web server- HTTPD
+    yum:
+      name: httpd
+      state: present
+  - name: check/install python
+    yum:
+      name: python3
+      state: present
+- name: check/Install dependencies over loadblancing node
+  hosts: loadbalancing
+  tasks:
+  - name: check/Install loadblancer- HAPROXY
+    yum:
+      name: haproxy
+      state: present 
+...
