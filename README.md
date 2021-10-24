@@ -19,7 +19,7 @@ Eduton is proud of connecting NGOs all around the world to support digital learn
 We learnt how to work together to create great things.We also learned a lot by working with all the resources that you provided in Hack the fall 2021. It's a great experience of having more innovative way of coding
 
 ## What's next for Eduton
--Eduton is next up to connect with all the NGOs and conduct classes at the **rural areas**.
--We also have a plan of updating the website with more interesting features like live chat,calls etc,..
--We also have an idea of providing **stipend** to all the tutors in future.
--We have an idea to implement more **free specialization courses** by making tie up with **top universities**.
+- Eduton is next up to connect with all the NGOs and conduct classes at the **rural areas**.
+- We also have a plan of updating the website with more interesting features like live chat,calls etc,..
+- We also have an idea of providing **stipend** to all the tutors in future.
+- We have an idea to implement more **free specialization courses** by making tie up with **top universities**.
